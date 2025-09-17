@@ -11,7 +11,7 @@ Made with typescript, discord.js and <3
 
 ## Installation and setup
 1. Install the latest version of [git](https://git-scm.org)
-2. Install the latest release (not LTS) version of Nodejs (v 16.10.0 or up) [https://nodejs.org/en/download/current/](https://nodejs.org/en/download/current/)
+2. Install the latest release (not LTS) version of Node.js (v 16.10.0 or up) [https://nodejs.org/en/download/current/](https://nodejs.org/en/download/current/)
 
 ## Contributing
 1. Create a fork of this repo [https://github.com/open-source-at-illinois/osai-bot](https://github.com/open-source-at-illinois/osai-bot).
